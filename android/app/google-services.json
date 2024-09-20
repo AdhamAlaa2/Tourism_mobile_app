@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519119575740",
+    "project_id": "akherhaga-bfad6",
+    "storage_bucket": "akherhaga-bfad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519119575740:android:7a117ab23d55086b76ceb9",
+        "android_client_info": {
+          "package_name": "com.example.akherhaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519119575740-749mh8doicauu1bscroo7qflofm2n5sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZJMfQaih-nnUT1ZQEn0aFsEJqRwsnrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519119575740-749mh8doicauu1bscroo7qflofm2n5sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
